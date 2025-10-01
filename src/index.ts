@@ -20,6 +20,9 @@ const devwallet = process.env.DEV_WALLET_ADDRESS;
 // console.log("🚀 ~ devwallet:", devwallet)
 const buyamount = process.env.BUY_AMOUNT;
 // console.log("🚀 ~ buyamount:", buyamount)
+
+
+
 const title = `
 ██████╗ ██╗   ██╗███╗   ███╗██████╗ ███████╗██╗   ██╗███╗   ██╗    ███████╗███╗   ██╗██╗██████╗ ███████╗██████╗ 
 ██╔══██╗██║   ██║████╗ ████║██╔══██╗██╔════╝██║   ██║████╗  ██║    ██╔════╝████╗  ██║██║██╔══██╗██╔════╝██╔══██╗
@@ -29,11 +32,6 @@ const title = `
 ╚═╝      ╚═════╝ ╚═╝     ╚═╝╚═╝     ╚═╝      ╚═════╝ ╚═╝  ╚═══╝    ╚══════╝╚═╝  ╚═══╝╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝
                                                                                                                      
 `;
-
-
-
-
-
 
 
 
