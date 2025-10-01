@@ -13,13 +13,13 @@ dotnet.config();
 
 
 const rpc = process.env.RPC_ENDPOINT;
-console.log("🚀 ~ rpc:", rpc)
+// console.log("🚀 ~ rpc:", rpc)
 const payer = process.env.PRIVATE_KEY;
-console.log("🚀 ~ payer:", payer)
+// console.log("🚀 ~ payer:", payer)
 const devwallet = process.env.DEV_WALLET_ADDRESS;
-console.log("🚀 ~ devwallet:", devwallet)
+// console.log("🚀 ~ devwallet:", devwallet)
 const buyamount = process.env.BUY_AMOUNT;
-console.log("🚀 ~ buyamount:", buyamount)
+// console.log("🚀 ~ buyamount:", buyamount)
 const title = `
 ██████╗ ██╗   ██╗███╗   ███╗██████╗ ███████╗██╗   ██╗███╗   ██╗    ███████╗███╗   ██╗██╗██████╗ ███████╗██████╗ 
 ██╔══██╗██║   ██║████╗ ████║██╔══██╗██╔════╝██║   ██║████╗  ██║    ██╔════╝████╗  ██║██║██╔══██╗██╔════╝██╔══██╗
