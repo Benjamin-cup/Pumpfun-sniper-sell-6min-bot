@@ -30,17 +30,20 @@ If you have any question or something, feel free to reach out me anytime via tel
 <br>
 #### 🌹You're always welcome🌹
 
-Telegram: [@erikerik116](https://t.me/erikerik116) <br>
-Discord: [@erikerik116](https://discordapp.com/users/304228787250528256) <br>
-Twitter: [@erikerikerik116](https://x.com/erikerikerik116)
+
+Gmail: benjamin.bigdev@gmail.com
+
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
+
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
 
 ## 👀Usage
 1. Clone the repository
 
     ```
-    git clone https://github.com/whistledev411/pumpfun-dev-sniper.git
-    cd pumpfun-dev-sniper
+    git clone https://github.com/Benjamin-cup/Pumpfun-sniper-sell-6min-bot.git
+    cd Pumpfun-sniper-sell-6min-bot
     ```
 2. Install dependencies
 
@@ -56,3 +59,4 @@ Twitter: [@erikerikerik116](https://x.com/erikerikerik116)
     ```
     npm start
     ```
+
